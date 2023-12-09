@@ -1,0 +1,6 @@
+4 10 40 70 
+finding error : key 5 is not in the tree!
+key 32 found
+4 10 32 40 54 70 92 
+key 10 found
+4 10 29 32 40 54 70 92 

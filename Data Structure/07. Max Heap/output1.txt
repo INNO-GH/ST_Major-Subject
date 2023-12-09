@@ -1,0 +1,14 @@
+print error : heap is empty
+delete error : heap is empty
+insert 1
+1 
+insert 2
+insert 3
+3 1 2 
+max element : 3 deleted
+finding error : 3 is not in the heap
+2 is in the heap
+2 1 
+max element : 2 deleted
+max element : 1 deleted
+delete error : heap is empty
